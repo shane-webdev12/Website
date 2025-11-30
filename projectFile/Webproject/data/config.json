@@ -1,0 +1,16 @@
+{
+    "name" : "Shane Mae S. Palanog",
+    "age" : "19",
+    "address" : "Karaos, San Francisco Agusan Del Sur",
+    "contact" : "+639526001160",
+    "height" : "5'2 (157.48cm)",
+    "weight" : "47kg",
+    "mn" : "Jeschiellisa Palanog",
+    "fn" : "Shem Palanog",
+    "religion" : "Christian",
+    "data" : {
+        "school" : "Caraga State University",
+        "hobbies" : ["Sleeping", "Watching anime", "Coding", "Reading books", "Playing mobile games"],
+        "program" : "Bachelor of Science in Information Technology, 1st year student at Caraga State University Cabadbaran Campus"
+    }
+}
